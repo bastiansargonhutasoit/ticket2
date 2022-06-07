@@ -50,7 +50,7 @@
                     </div>
 
                     <div class="text-end pt-1">
-                        <p class="text-sm mb-0 text-capitalize">Jumlah Tiket Terjual</p>
+                        <p class="text-sm mb-0 text-capitalize">Jumlah Tiket Terjual Bulan Ini</p>
                         <h4 class="mb-0">3,462</h4>
                     </div>
                 </div>
