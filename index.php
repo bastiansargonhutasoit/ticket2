@@ -3,7 +3,7 @@ include "function/koneksi.php";
 include "function/title.php";
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en"> 
 
 <head>
   <meta charset="utf-8" />
